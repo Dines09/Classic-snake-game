@@ -1,4 +1,4 @@
-'''This is my first python project
+'''
    Title : Classic Snake Game
    Level : Beginner
    Author : Dinesh 
