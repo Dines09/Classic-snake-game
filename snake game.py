@@ -1,3 +1,8 @@
+'''This is my first python project
+   Title : Classic Snake Game
+   Level : Beginner
+   Author : Dinesh 
+   mail id: india.dinesh09@gmail.com'''
 import pygame
 import random
 pygame.init()
